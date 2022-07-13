@@ -4,6 +4,7 @@
 
 ## Build and Run
 ### In order to run the application
+`npm install`
 `npm run start`
 
 Then check out https://localhost:3000/
